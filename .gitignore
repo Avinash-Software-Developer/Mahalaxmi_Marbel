@@ -23,7 +23,9 @@ _UpgradeReport_Files/
 # Directories #
 ###############
 bin/
+bin/*.dll
 obj/
+obj/*.dll
 TestResults/
 ###################
 # Web publish log #
