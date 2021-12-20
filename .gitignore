@@ -84,3 +84,7 @@ _[Ss]cripts
 ehthumbs.db
 Icon?
 Thumbs.db
+*.dll
+*.pdb
+*.cache
+*.txt
